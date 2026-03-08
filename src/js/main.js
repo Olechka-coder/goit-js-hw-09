@@ -1,3 +1,3 @@
 import './css/styles.css';
-import './js/1-gallery.js';
-import './js/2-form.js';
+import './1-gallery.js';
+import './2-form.js';
